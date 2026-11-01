@@ -30,15 +30,13 @@ enough for real users, and measuring that they actually work.
 
 | Area | Tools |
 | --- | --- |
-| **Agentic AI & LLMs** | LangGraph · LangChain · LlamaIndex · LangSmith · MCP · Agentic RAG · Vector databases · VLMs |
+| **Agentic AI & LLMs** | LangGraph · LangChain · LlamaIndex · LangSmith · MCP · Agentic RAG · Vector databases · VLMs · Evals & guardrails |
 | **LLM serving** | vLLM · TensorRT-LLM · Triton Inference Server · llama.cpp · Ollama |
-| **ML & inference** | PyTorch · TensorFlow · TensorRT · TFLite · Core ML · Stable Diffusion |
+| **Computer vision & biometrics** | Face recognition · Liveness detection · OCR · eKYC · Stable Diffusion |
+| **ML & on-device** | PyTorch · TensorFlow · TensorRT · TFLite · Core ML · Flutter |
 | **MLOps & infra** | Docker · Kubernetes · Kafka · Argo CD · CI/CD · Linux |
 | **Languages** | Python · C++ · Kotlin · Swift · Dart |
 
-## GitHub stats
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcphong&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=59636e" alt="Top languages" height="165">
-  <img src="https://streak-stats.demolab.com/?user=jcphong&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da" alt="GitHub contribution streak" height="165">
-</p>
+<p align="center">More about my work at <a href="https://jcphong.github.io/">jcphong.github.io</a> · Open to chat: <a href="mailto:jcphong@gmail.com">jcphong@gmail.com</a></p>
